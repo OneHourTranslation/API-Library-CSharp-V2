@@ -1,0 +1,14 @@
+﻿Account ID: 921
+Public Key: f7KpwDqT3YkP4bMgWjLH
+Secret Key: ad7d46d4f7ba1d2e5e6406e3da6c4a0a
+
+Resource Id(file): rsc-58ac84a87a8901-65554036,rsc-58ac8eac3934f1-96727834
+Resource Id(content): rsc-58ac867e139380-00434899
+
+Project ids: 
+851485
+851491 
+851492 
+851493 
+851495
+851505

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oht", "oht\oht.csproj", "{C2207410-1C6D-44B3-9105-D900008ADD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOHT", "TestOHT\TestOHT.csproj", "{59F7B9A8-450D-464A-B4BA-FF0FF21BD918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestOHT", "ConsoleTestOHT\ConsoleTestOHT.csproj", "{37BC1EBC-82EA-4295-A9A2-18921E5BB267}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2207410-1C6D-44B3-9105-D900008ADD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2207410-1C6D-44B3-9105-D900008ADD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2207410-1C6D-44B3-9105-D900008ADD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2207410-1C6D-44B3-9105-D900008ADD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59F7B9A8-450D-464A-B4BA-FF0FF21BD918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59F7B9A8-450D-464A-B4BA-FF0FF21BD918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59F7B9A8-450D-464A-B4BA-FF0FF21BD918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59F7B9A8-450D-464A-B4BA-FF0FF21BD918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BC1EBC-82EA-4295-A9A2-18921E5BB267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BC1EBC-82EA-4295-A9A2-18921E5BB267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BC1EBC-82EA-4295-A9A2-18921E5BB267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BC1EBC-82EA-4295-A9A2-18921E5BB267}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
