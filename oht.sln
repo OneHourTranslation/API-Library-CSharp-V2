@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oht", "oht\oht.csproj", "{C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestOHT", "TestOHT\TestOHT.csproj", "{59F7B9A8-450D-464A-B4BA-FF0FF21BD918}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTestOHT", "ConsoleTestOHT\ConsoleTestOHT.csproj", "{37BC1EBC-82EA-4295-A9A2-18921E5BB267}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
