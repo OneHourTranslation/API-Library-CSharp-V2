@@ -44,14 +44,14 @@ namespace UnitTestOHT
         [Test]
         public void TestGetAccountDetails()
         {
-            // Arrange
+            // Arrange            
             var oht = new OhtApi(_privateKey, _publicKey, true);
 
             // Act
             var result = oht.GetAccountDetails();
 
             // Assert
-            Assert.NotNull(result);
+            Assert.NotNull(result);            
         }
 
         [Test]

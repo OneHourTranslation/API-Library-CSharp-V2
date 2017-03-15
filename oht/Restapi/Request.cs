@@ -148,6 +148,8 @@ namespace oht.Restapi
                 Exception primaryException = null;
                 JsonSerializerSettings settings = new JsonSerializerSettings();
                 settings.NullValueHandling = NullValueHandling.Ignore;
+                settings.MissingMemberHandling = MissingMemberHandling.Error;
+
                 try
                 {                    
                     data = JsonConvert.DeserializeObject<Response<ResultType>>(response.Content, settings);
