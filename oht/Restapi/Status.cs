@@ -8,6 +8,12 @@ namespace oht.Restapi
     internal class Status
     {
         /// <summary>
+        /// Request UUID
+        /// </summary>
+        [JsonProperty(PropertyName = "request_uuid")]
+        public string RequestUuid { get; set; }
+
+        /// <summary>
         /// Response status code, 0 if success
         /// </summary>
         [JsonProperty(PropertyName = "code")]
