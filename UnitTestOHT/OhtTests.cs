@@ -320,7 +320,7 @@ namespace UnitTestOHT
             var result = oht.GetProjectsList();
 
             // Assert
-            Assert.AreNotEqual(0, result.projectsCount);
+            Assert.AreNotEqual("0", result.projectsCount);
         }
 
         [Test]
