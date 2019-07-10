@@ -176,7 +176,11 @@ namespace oht.Entities
         [EnumMember(Value = "tourism")]
         Tourism,
         [EnumMember(Value = "certificates-translation")]
-        Certificates_Translation
+        Certificates_Translation,
+        [EnumMember(Value = "training-employee-handbooks")]
+        Training_Employee_Handbooks,
+        [EnumMember(Value = "forex-crypto")]
+        Forex_Crypto
     }
 
     /// <summary>
