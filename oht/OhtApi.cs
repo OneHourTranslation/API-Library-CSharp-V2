@@ -16,8 +16,8 @@ namespace oht
     public class OhtApi
     {
         #region constants and variables
-        private static string _baseUrl = "http://www.onehourtranslation.com/api/2";
-        private static string _baseUrlSandbox = "http://sandbox.onehourtranslation.com/api/2";
+        private static string _baseUrl = "https://www.onehourtranslation.com/api/2";
+        private static string _baseUrlSandbox = "https://sandbox.onehourtranslation.com/api/2";
         private Request _request;
         #endregion
 
